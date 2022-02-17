@@ -1,3 +1,3 @@
 # Felicia Alvarez
 ## I'm a very amatuer rock climber.
-![Felicia climbing poorly](/images/IMG_4246.JPG)
+![Felicia climbing poorly](/IMG_4246.JPG)
