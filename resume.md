@@ -9,9 +9,6 @@
 ## Experience
 Employer | Job Description
 ------------ | -------------
-Rocknasium Gym | 
-* Climbed beginner rocks
-* made lifelong friendships 
-* learned basic safety protocol
+Rocknasium Gym | * Climbed beginner rocks* Made lifelong friendships* Learned basic safety protocol
 Sacramento Pipeworks | Climbed beginner and intermediate indoor rocks, built up climbing techniques
 Bouldering in Nature | Sought out routes marked by other climbers in nature, climbed a big rock
