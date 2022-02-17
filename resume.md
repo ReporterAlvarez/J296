@@ -1,2 +1,3 @@
-# J296
-Data Journalism Markdown practice resume.
+# Felicia Alvarez
+## I'm a very amatuer rock climber.
+![Felicia climbing poorly](/images/logo.png)
