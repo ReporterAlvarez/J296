@@ -6,7 +6,7 @@
 * Team Spirit
 * Tough hands
 * Heart!
-** Experience
+## Experience
 Employer | Job Description
 ------------ | -------------
 Rocknasium Gym | * Climbed beginner rocks * made lifelong friendships * learned basic safety protocol
